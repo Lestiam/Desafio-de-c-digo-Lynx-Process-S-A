@@ -1,0 +1,15 @@
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\Desafio_Lynx.exe
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\Desafio_Lynx.deps.json
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\Desafio_Lynx.runtimeconfig.json
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\Desafio_Lynx.runtimeconfig.dev.json
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\Desafio_Lynx.dll
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\ref\Desafio_Lynx.dll
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\bin\Debug\net5.0\Desafio_Lynx.pdb
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.AssemblyInfoInputs.cache
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.AssemblyInfo.cs
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.csproj.CoreCompileInputs.cache
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.dll
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\ref\Desafio_Lynx.dll
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.pdb
+C:\Pasto do Lestian\curriculo\Desafio-de-c-digo-Lynx-Process-S-A\Desafio_Lynx\obj\Debug\net5.0\Desafio_Lynx.genruntimeconfig.cache
